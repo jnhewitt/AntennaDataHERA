@@ -1,0 +1,24 @@
+This directory contains the results of CST simulations of sinuous antenna
+designs for the HERA feed.    The sinuous trace is based on a function described
+by a number of parameters.  Here we focus on the "growth rate," that determines
+how many times the trace goes back and forth, and the outer radius.  To improve
+the polarization performance of the antenna, we add a cylinder, similar
+to the cylinder that was added to the crossed-dipole design of the current HERA
+feed.  To improve the forward gain, we add a backplane.
+
+All the simulations presented here are for the feed mounted on the HERA dish.
+
+For the data presented here, we consider growth rates equal to 0.49 and 0.8,
+outer radii equal to 175cm and 225cm, a cylinder diameter of 1.2 times the
+diameter of the sinous structure, a cylinder height 0.3 times the diameter of
+the sinuous structure, a backplane height (distance from the sinuous structure)
+of 90cm and a backplane diameter of 0.95 times the diameter of the sinuous
+structure.
+
+We present data for five models:
+
+(1)  Growth rate = 0.49, outer radius = 225cm, with cylinder, without backplane
+(2). Growth rate = 0.8, outer radius = 225cm, with cylinder, without backplane
+(3)  Growth rate = 0.8, outer radius = 175cm, with cylinder, without backplane
+(4). Growth rate = 0.8, outer radius = 200cm, with cylinder, without backplane
+(5). Growth rate = 0.8, outer radius = 175cm, with cylinder, with backplane
